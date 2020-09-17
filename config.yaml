@@ -1,0 +1,18 @@
+---
+aws_profile: default
+aws_region: us-east-2
+aws_key_name: tima-key
+
+bigip_pool_name: 'workers-8ball'
+bigip_server: 3.22.62.135
+bigip_server_port: 8443
+bigip_partition: Common
+bigip_lb_method: least-connections-member
+bigip_slow_ramp_time: 120
+
+eightball_service_version: 1.2.3
+eightball_language: en-us
+eightball_wisdom_algo: 'shake3'
+eightball_confucious_mode: false
+eightball_fortunecookie_mode: false
+eightball_default_answer: 42
