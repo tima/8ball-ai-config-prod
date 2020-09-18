@@ -10,9 +10,10 @@ bigip_partition: Common
 bigip_lb_method: least-connections-member
 bigip_slow_ramp_time: 120
 
-eightball_service_version: 1.2.3
+eightball_service_version: 1.2.40
 eightball_language: en-us
 eightball_wisdom_algo: 'shake3'
 eightball_confucious_mode: false
 eightball_fortunecookie_mode: false
 eightball_default_answer: 42
+
