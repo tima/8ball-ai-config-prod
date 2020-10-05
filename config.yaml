@@ -13,5 +13,5 @@ eightball_language: en-uk
 eightball_wisdom_algo: 'shake3'
 eightball_confucious_mode: false
 eightball_fortunecookie_mode: false
-eightball_default_answer: 42
+eightball_default_answer: 40
 
